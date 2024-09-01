@@ -4,12 +4,9 @@ Mpox, just like covid 19 that affected the entire world in 2020,  is a new viral
 
 The data for this research on uptake of vaccines based on opinions, demoraphics and doctor's recommendation is from United States National 2009 H1N1 Flu Survey collected to monitor vaccination rates during the US Government Vaccination Campaign that began in October 2009. A phone survey was used to ask people whether they had received H1N1 and seasonal flu vaccines, in conjunction with information they shared about their lives, opinions, and behaviors.
 
-## **`DATA UNDERSTANDIG`**
-
 ## **`DATA UNDERSTANDING`**
 
 Here, the different sets of data as downloaded from the **`DRIVENDATA`** data repository are described:
-
 
 
 ## **`DESCRIPTION OF FEATURES AND LABELS`**
@@ -74,3 +71,7 @@ There are two target variables:
 - **seasonal_vaccine** - Whether respondent received seasonal flu vaccine.
 
 Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either vaccine, others got only one, and some got both. This is formulated as a multilabel (and not multiclass) problem.
+
+## **`EXPLORATORY DATA ANALYSIS`**
+### Stacked bar chart to show correlation between h1n1_knowledge and h1n1 flu vaccine uptake
+![alt text](image.png)
