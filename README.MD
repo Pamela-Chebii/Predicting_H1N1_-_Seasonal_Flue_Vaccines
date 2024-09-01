@@ -129,10 +129,10 @@ To test whether the a different model would perform better, a Decision Tree Clas
 ## **`FINDINGS AND RECOMMENDATIONS`**
 
 ### **`FINDINGS`**
-1. Logistic Regression Model has an average roc_auc score of 83.07% indicating that the model performs well in predicting H1N1 and Seasonal Flu Vaccines uptake
+1. Logistic Regression Model has an average roc_auc score of 83.07% indicating that the model performs well in predicting H1N1 and Seasonal Flu Vaccines uptake.
 2. The Vanilla Decision Tree Model has an roc_auc score of 69% which is a poor performance compaired to the logistic regression model. This indicate that use of less variables without hypeperameter tuning results to poor model performance in Decision Trees.
-3. The tuned decision tree using similar features as the Vanilla model had a n roc_auc score of 78% indicating that proper prunning of decision tree can lead to good performance of a model
-4. The tuned decision tree that was developed using an optimal depth with more three more features (`sex`, `race` and `age_group`) compaired to the logistic regression that had only 23 features performed better than all the models  (roc_auc of 83.12%). This indicate that with proper tuning and increasing the number features the model ca perform better in predicting vaccines
+3. The tuned decision tree using similar features as the Vanilla model had a n roc_auc score of 78% indicating that proper prunning of decision tree can lead to good performance of a model.
+4. The tuned decision tree that was developed using an optimal depth with more three more features (`sex`, `race` and `age_group`) compaired to the logistic regression that had only 23 features performed better than all the models  (roc_auc of 83.12%). This indicate that with proper tuning and increasing the number features the model ca perform better in predicting vaccines.
 
 ### **`Recommendations`**
 1. When performing hypeparameter tuning for the decision tree classifier, only the Maximum Depth was used. To improve the performance of the Decision Tree Classifier, other tree prunning methods like (minimum samples with leaf split, minimum leaf sample size, maximum leaf nodes, and maximum features) can be used instead of using miaximum depth alone.
