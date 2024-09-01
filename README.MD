@@ -86,4 +86,16 @@ In Logistic Regression, two target variables were used, that is seasonal_vaccine
 The rest of the models used only target variable.
 
 ### AUC curve for Logistic Regression
-Images/roc_auc curve for Logistic Regression.png
+![alt text](<roc_auc curve for Logistic Regression.png>)
+
+
+### AUC curve for Vanilla Decision Tree Model
+![alt text](<roc_auc curve model 2 - Vanilla DT.png>)
+
+### AUC curve for Tuned Decision Tree Model
+![alt text](<roc_auc curve model 3 -DT.png>)
+
+### AUC curve for Complex Decision Tree Model
+![alt text](<roc_auc curve model 4 - DT.png>)
+
+
