@@ -123,6 +123,9 @@ To test whether the a different model would perform better, a Decision Tree Clas
 - The model however, has thesame performance when compaired to the Logistic Regression model that had a performance score of 83% despite model four having more features than the Logistic Regression Model.
 - To further improve the performance of the Decision Tree Classifier, other tree prunning methods like (minimum samples with leaf split, minimum leaf sample size, maximum leaf nodes, and maximum features) can be used instead of using miaximum depth alone.
 
+### Comparing performance of different models
+![alt text](image-1.png)
+
 ## **`FINDINGS AND RECOMMENDATIONS`**
 
 ### **`FINDINGS`**
