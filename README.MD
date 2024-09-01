@@ -1,0 +1,5 @@
+## **`PROJECT OVERVIEW`**
+
+Mpox, just like covid 19 that affected the entire world in 2020,  is a new viral infection which can spread between people, mainly through close contact, and occasionally from the environment to people via things and surfaces that have been touched by a person with mpox (WHO, 2024). It is an illness caused by the monkeypox virus. 3 cases of Mpox at the time of writing this have been reported in Kenya but the vaccines for the disease are still under development.
+
+The data for this research on uptake of vaccines based on opinions, demoraphics and doctor's recommendation is from United States National 2009 H1N1 Flu Survey collected to monitor vaccination rates during the US Government Vaccination Campaign that began in October 2009. A phone survey was used to ask people whether they had received H1N1 and seasonal flu vaccines, in conjunction with information they shared about their lives, opinions, and behaviors.
