@@ -75,12 +75,15 @@ Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either v
 ## **`EXPLORATORY DATA ANALYSIS`**
 #### Stacked bar chart to show correlation between h1n1_knowledge and h1n1 flu vaccine uptake
 ![alt text](<h1n1_knowledge against h1n1_vaccine stacked.png>)
-The bar chart shows high correlation between knowledge of h1n1 vaccine and h1n1_vaccine.
+##### The bar chart shows high correlation between knowledge of h1n1 vaccine and h1n1_vaccine.
 
 #### selected columns against the two target variables
 ![alt text](<selected columns stacked bar chart.png>)
 
 ## **`MODELLING`**
 The models were developed using Logistic Regression Model and Decision Tree Classifier (ID3) Models.
-In Logistic Regression, two target variables were used, that is seasonal_vaccine and h1n1 vaccine
-The rest of the models used only one vaccine 
+In Logistic Regression, two target variables were used, that is seasonal_vaccine and h1n1 vaccine.
+The rest of the models used only target variable.
+
+### AUC curve for Logistic Regression
+d:\Data Science\Phase 3\H1N1 Dataset\Images\roc_auc curve for Logistic Regression.png
