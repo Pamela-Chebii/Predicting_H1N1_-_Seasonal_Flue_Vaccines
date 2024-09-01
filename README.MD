@@ -74,4 +74,4 @@ Both are binary variables: 0 = No; 1 = Yes. Some respondents didn't get either v
 
 ## **`EXPLORATORY DATA ANALYSIS`**
 ### Stacked bar chart to show correlation between h1n1_knowledge and h1n1 flu vaccine uptake
-![alt text](image.png)
+![alt text](<h1n1_knowledge against h1n1_vaccine stacked.png>)
