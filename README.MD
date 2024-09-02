@@ -125,6 +125,8 @@ To test whether the a different model would perform better, a Decision Tree Clas
 
 ### Comparing performance of different models
 ![alt text](image-1.png)
+- The performance of the Vanilla Decision Tree Classifier is 99% on Train data and 69% on test data indicating that the Vanilla/baseline model for decision tree is overfitted.
+- The rest of the models 
 
 ## **`FINDINGS AND RECOMMENDATIONS`**
 
